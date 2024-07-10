@@ -379,7 +379,7 @@
         "FontHeader": "Raleway",
         "ShowChat": true,
         "AgeRestriction": {
-            "enable": true,
+            "enable": false,
             "imageUrl": "",
             "backgroundImageUrl": "",
             "title": "You must be at least 18 to enter the store",
